@@ -5,6 +5,7 @@ import { mkdirSync, writeFileSync } from "node:fs";
 // survivor — cracked drops, a toilet swim, the ex's 2 a.m. calls — yet
 // none of that killed it. The group chat did: a thousand unread messages
 // burning the last percent while it types its own obituary.
+// The punchline lands on the group chat: the one drain loud enough to finish it.
 const LINE =
   "Battery at 1%. I survived three drops, one toilet, and your ex's 2 a.m. calls — but this group chat is where I die.";
 
